@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/breakout_bg"
+
+    >
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/branco"
+            android:paddingTop="50dp"
+            android:text='Ao digitar  "atari breakout"  no Google imagens    As imagens se transformam no classico do atari para você jogar!'
+            android:textSize="35sp"
+            android:textAlignment="center"
+            android:textStyle="normal|bold" />
+
+
+
+
+
+    </ScrollView>
+</RelativeLayout>

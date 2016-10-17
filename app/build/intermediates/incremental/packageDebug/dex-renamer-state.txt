@@ -1,0 +1,7 @@
+#Sat Oct 15 21:40:31 PYST 2016
+base.0=Y\:\\Android\\WaystoGoogle\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_9ff8eea1ddbfc4956c6ef12ad7f4ec8dc2b15c35
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=Y\:\\Android\\WaystoGoogle\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_8ed5cd5f886880d411093d9bec4b0bfafb16235e\\classes.dex
+base.1=Y\:\\Android\\WaystoGoogle\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_8ed5cd5f886880d411093d9bec4b0bfafb16235e
+file.0=Y\:\\Android\\WaystoGoogle\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_9ff8eea1ddbfc4956c6ef12ad7f4ec8dc2b15c35\\classes.dex

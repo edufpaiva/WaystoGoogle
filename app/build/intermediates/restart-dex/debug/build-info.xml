@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    api-level="24"
+    density="420dpi"
+    format="8"
+    plugin-version="2.2.0"
+    timestamp="336962863710702"
+    token="9036530593226619982"
+    verifier="COMPATIBLE" >
+
+    <task
+        name="javac"
+        duration="433" />
+    <task
+        name="instant-run-dex"
+        duration="34" />
+    <task
+        name="instant-run-transform"
+        duration="46" />
+    <task
+        name="verifier"
+        duration="3" />
+
+    <artifact
+        location="Y:\Android\WaystoGoogle\app\build\intermediates\reload-dex\debug\classes.dex"
+        type="RELOAD_DEX" />
+
+    <build
+        timestamp="335867520927085"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="Y:\Android\WaystoGoogle\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="336887577621621"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="Y:\Android\WaystoGoogle\app\build\intermediates\builds\debug\336887577621621\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="336962863710702"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="Y:\Android\WaystoGoogle\app\build\intermediates\reload-dex\debug\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+
+</instant-run>
